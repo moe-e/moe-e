@@ -2,6 +2,7 @@
 <h3 align="center">Computer Science Student at Toronto Metropolitan University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moe-e&label=Profile%20views&color=0e75b6&style=flat" alt="moe-e" /> </p>
+<p> You can reach me at melharoufi@torontomu.ca</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
