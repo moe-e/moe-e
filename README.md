@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moe-e&label=Profile%20views&color=0e75b6&style=flat" alt="moe-e" /> </p>
 <ul>
   <li>📬 You can reach me at <a href="mailto:melharoufi@torontomu.ca">melharoufi@torontomu.ca</a></li>
+  <li>Check out this web app I made to help TMU students with course selection <a href="https://rate-my-tmu-courses.vercel.app/">https://rate-my-tmu-courses.vercel.app/</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
