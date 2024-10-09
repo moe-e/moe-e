@@ -24,7 +24,7 @@
   </a>
 </h3>
 <p>
-  Interactive platform that enhances financial literacy by enabling users to “live chat” with stocks using AI and ML to receive up-to-date market insights.
+  Interactive platform that enhances financial literacy by enabling users to "live chat" with stocks using AI and ML to receive up-to-date market insights.
 </p>
 
 &nbsp;
