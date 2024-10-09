@@ -6,7 +6,7 @@
   <li>📬 You can reach me at <a href="mailto:melharoufi@torontomu.ca">melharoufi@torontomu.ca</a></li>
 </ul>
 
-<h2 align="left">🔥 Personal Projects</h2>
+<h1 align="left">🔥 Personal Projects</h1>
 
 <h3 align="left">📚 MyTMUCourses - Full-Stack Course Review Platform &nbsp;&nbsp;&nbsp;
   <a href="https://rate-my-tmu-courses.vercel.app/" target="_blank">
