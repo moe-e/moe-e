@@ -10,7 +10,7 @@
 
 <h3 align="left">📚 <b>MyTMUCourses - Full-Stack Course Review Platform</b> &nbsp;&nbsp;&nbsp;
   <a href="https://rate-my-tmu-courses.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Visit%20Web%20App-blue?style=flat-square&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visit-blue?style=flat-square&logo=firefox-browser&logoColor=white" />
   </a>
 </h3>
 <p>
