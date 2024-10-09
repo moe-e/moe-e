@@ -6,22 +6,20 @@
   <li>📬 You can reach me at <a href="mailto:melharoufi@torontomu.ca">melharoufi@torontomu.ca</a></li>
 </ul>
 
-<br>
-
 <h1 align="left">🔥 Personal Projects</h1>
 
 <h3 align="left">📚 <b>MyTMUCourses - Full-Stack Course Review Platform</b></h3>
 <p>
   Tool designed to assist 1,000+ TMU students in course planning by enabling them to browse and post course reviews for thousands of courses.
 </p>
-<a href="https://rate-my-tmu-courses.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Site-blue?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
+<a href="https://rate-my-tmu-courses.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Web%20App-blue?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
 
 
 <h3 align="left">📈 <b>StockSense – Full-Stack AI Stock Assistant</b></h3>
 <p>
   Interactive platform that enhances financial literacy by enabling users to “live chat” with stocks using AI and ML to receive up-to-date market insights.
 </p>
-<a href="https://rate-my-tmu-courses.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Site-blue?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
+<a href="https://rate-my-tmu-courses.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Web%20App-blue?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
 
 <br>
 <br>
