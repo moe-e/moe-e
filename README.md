@@ -6,19 +6,18 @@
   <li>📬 You can reach me at <a href="mailto:melharoufi@torontomu.ca">melharoufi@torontomu.ca</a></li>
 </ul>
 
-<h2 align="left">🔥 Personal Projects</h2>
+<h1 align="center">🔥 Personal Projects</h1>
 
-<h3 align="left">MyTMUCourses - Full-Stack Course Review Platform</h3>
+<h3 align="left">📚 <b>MyTMUCourses - Full-Stack Course Review Platform</b> <a href="https://rate-my-tmu-courses.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Site-blue?style=flat-square&logo=firefox-browser&logoColor=white"/></a></h3>
 <p>
-  A dynamic course management system for Toronto Metropolitan University, enhancing the academic experience through an integrated platform for students and faculty.
-  <br><a href="https://rate-my-tmu-courses.vercel.app/">Visit MyTMUCourses</a>
+  Tool designed to assist 1,000+ TMU students in course planning by enabling them to browse and post course reviews for thousands of courses.
 </p>
 
-<h3 align="left">📈 <b>StockSense – Full-Stack AI Stock Assistant</b></h3>
+---
+
+<h3 align="left">📈 <b>StockSense – Full-Stack AI Stock Assistant</b> <a href="https://stocksense.example.com" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Site-blue?style=flat-square&logo=firefox-browser&logoColor=white"/></a></h3>
 <p>
-  An AI-driven platform providing real-time financial insights and interactive experiences with stock market data through a user-friendly interface.
-  <br>
-  <a href="https://stocksense.example.com" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Site-blue?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  Interactive platform that enhances financial literacy by enabling users to “live chat” with stocks using AI and ML to receive up-to-date market insights.
 </p>
 
 
