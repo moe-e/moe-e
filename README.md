@@ -4,41 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moe-e&label=Profile%20views&color=0e75b6&style=flat" alt="moe-e" /> </p>
 <ul>
   <li>📬 You can reach me at <a href="mailto:melharoufi@torontomu.ca">melharoufi@torontomu.ca</a></li>
-  <li>Check out this web app I made to help TMU students with course selection <a href="https://rate-my-tmu-courses.vercel.app/">https://rate-my-tmu-courses.vercel.app/</a></li>
 </ul>
 
 <h2 align="left">🔥 Personal Projects</h2>
 
 <h3 align="left">MyTMUCourses</h3>
 <p>
-  <strong>Description:</strong> MyTMUCourses is a dynamic course management system designed to streamline the learning experience for students at Toronto Metropolitan University. This project integrates course scheduling, materials distribution, and student-faculty interaction.
-</p>
-<p>
-  <strong>Technologies:</strong> C#, .NET, SQL Server, Angular, TypeScript, Jenkins, Git, Jira
-</p>
-<p>
-  <strong>Features:</strong>
-  <ul>
-    <li>User-friendly course enrollment and management interface</li>
-    <li>Real-time notifications for course updates and materials</li>
-    <li>Integration with university databases for seamless data syncing</li>
-  </ul>
+  A dynamic course management system for Toronto Metropolitan University, enhancing the academic experience through an integrated platform for students and faculty.
+  <br><a href="https://rate-my-tmu-courses.vercel.app/">Visit MyTMUCourses</a>
 </p>
 
 <h3 align="left">StockSense – Full-Stack AI Stock Assistant</h3>
 <p>
-  <strong>Description:</strong> StockSense is an innovative platform that enables investors to interact with stocks through an AI-driven interface, providing insights derived from financial reports using Natural Language Processing.
-</p>
-<p>
-  <strong>Technologies:</strong> Node.js, Express, React.js, Python, Flask, MongoDB, Docker, AWS, Git
-</p>
-<p>
-  <strong>Features:</strong>
-  <ul>
-    <li>'Live chat' feature with stocks for instant market insights</li>
-    <li>AI/ML integration to analyze and predict stock trends</li>
-    <li>Real-time data updates and secure user authentication</li>
-  </ul>
+  An AI-driven platform providing real-time financial insights and interactive experiences with stock market data through a user-friendly interface.
+  <br><a href="https://stocksense.example.com">Visit StockSense</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
