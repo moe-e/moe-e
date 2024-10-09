@@ -14,10 +14,11 @@
   <br><a href="https://rate-my-tmu-courses.vercel.app/">Visit MyTMUCourses</a>
 </p>
 
-<h3 align="left">StockSense – Full-Stack AI Stock Assistant</h3>
+<h3 align="left">📈 <b>StockSense – Full-Stack AI Stock Assistant</b></h3>
 <p>
   An AI-driven platform providing real-time financial insights and interactive experiences with stock market data through a user-friendly interface.
-  <br><a href="https://stocksense.example.com">Visit StockSense</a>
+  <br>
+  <a href="https://stocksense.example.com" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Site-blue?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
 
