@@ -7,6 +7,40 @@
   <li>Check out this web app I made to help TMU students with course selection <a href="https://rate-my-tmu-courses.vercel.app/">https://rate-my-tmu-courses.vercel.app/</a></li>
 </ul>
 
+<h2 align="left">🔥 Personal Projects</h2>
+
+<h3 align="left">MyTMUCourses</h3>
+<p>
+  <strong>Description:</strong> MyTMUCourses is a dynamic course management system designed to streamline the learning experience for students at Toronto Metropolitan University. This project integrates course scheduling, materials distribution, and student-faculty interaction.
+</p>
+<p>
+  <strong>Technologies:</strong> C#, .NET, SQL Server, Angular, TypeScript, Jenkins, Git, Jira
+</p>
+<p>
+  <strong>Features:</strong>
+  <ul>
+    <li>User-friendly course enrollment and management interface</li>
+    <li>Real-time notifications for course updates and materials</li>
+    <li>Integration with university databases for seamless data syncing</li>
+  </ul>
+</p>
+
+<h3 align="left">StockSense – Full-Stack AI Stock Assistant</h3>
+<p>
+  <strong>Description:</strong> StockSense is an innovative platform that enables investors to interact with stocks through an AI-driven interface, providing insights derived from financial reports using Natural Language Processing.
+</p>
+<p>
+  <strong>Technologies:</strong> Node.js, Express, React.js, Python, Flask, MongoDB, Docker, AWS, Git
+</p>
+<p>
+  <strong>Features:</strong>
+  <ul>
+    <li>'Live chat' feature with stocks for instant market insights</li>
+    <li>AI/ML integration to analyze and predict stock trends</li>
+    <li>Real-time data updates and secure user authentication</li>
+  </ul>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamad-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-e" height="30" width="40" /></a>
