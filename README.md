@@ -22,7 +22,6 @@
 <a href="https://rate-my-tmu-courses.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Web%20App-blue?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
 
 <br>
-<br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
