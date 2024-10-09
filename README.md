@@ -8,7 +8,7 @@
 
 <h2 align="left">🔥 Personal Projects</h2>
 
-<h3 align="left">📚 <b>MyTMUCourses - Full-Stack Course Review Platform</b> &nbsp;&nbsp;&nbsp;
+<h3 align="left">📚 MyTMUCourses - Full-Stack Course Review Platform &nbsp;&nbsp;&nbsp;
   <a href="https://rate-my-tmu-courses.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Visit%20Web%20App-blue?style=flat-square&logo=firefox-browser&logoColor=white" />
   </a>
@@ -18,7 +18,7 @@
 </p>
 
 
-<h3 align="left">📈 <b>StockSense – Full-Stack AI Stock Assistant</b> &nbsp;&nbsp;&nbsp;
+<h3 align="left">📈 StockSense – Full-Stack AI Stock Assistant &nbsp;&nbsp;&nbsp;
   <a href="https://rate-my-tmu-courses.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Visit%20Web%20App-blue?style=flat-square&logo=firefox-browser&logoColor=white"/>
   </a>
