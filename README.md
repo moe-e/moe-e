@@ -8,13 +8,12 @@
 
 <h1 align="left">🔥 Personal Projects</h1>
 
-<h4 align="left">📚 <b>MyTMUCourses - Full-Stack Course Review Platform</b></h4>
+<h3 align="left">📚 <b>MyTMUCourses - Full-Stack Course Review Platform</b></h3>
 <p>
   Tool designed to assist 1,000+ TMU students in course planning by enabling them to browse and post course reviews for thousands of courses.
 </p>
 <a href="https://rate-my-tmu-courses.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Site-blue?style=flat-square&logo=firefox-browser&logoColor=white"/></a>
 
----
 
 <h3 align="left">📈 <b>StockSense – Full-Stack AI Stock Assistant</b></h3>
 <p>
