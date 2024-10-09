@@ -27,7 +27,8 @@
   Interactive platform that enhances financial literacy by enabling users to “live chat” with stocks using AI and ML to receive up-to-date market insights.
 </p>
 
-<br>
+&nbsp;
+&nbsp;
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
