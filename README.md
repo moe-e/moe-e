@@ -10,7 +10,7 @@
 
 <h3 align="left">📚 <b>MyTMUCourses - Full-Stack Course Review Platform</b> &nbsp;&nbsp;&nbsp;
   <a href="https://rate-my-tmu-courses.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Visit-blue?style=flat-square&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visit%20Web%20App-blue?style=flat-square&logo=firefox-browser&logoColor=white" />
   </a>
 </h3>
 <p>
@@ -27,7 +27,6 @@
   Interactive platform that enhances financial literacy by enabling users to “live chat” with stocks using AI and ML to receive up-to-date market insights.
 </p>
 
-<br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
